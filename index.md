@@ -11,7 +11,7 @@ layout: home
 
     "If you can't measure it, you can't manage it.”
 
-GasFlux is a forthcoming python package for analysis of gas concentration and wind data to produce emissions fluxes.
+GasFlux is a forthcoming python package that will help measurement scientists to quantify greenhouse gas emissions and provide data to those who can mitigate them.
 
 ## Purpose
 The project has two aims:
