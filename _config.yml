@@ -4,5 +4,5 @@ theme: just-the-docs
 
 url: https://gasflux.github.io
 
-aux_links:
-  Template Repository: https://github.com/gasflux/gasflux.github.io
+#aux_links:
+#  Template Repository: https://github.com/gasflux/gasflux.github.io
