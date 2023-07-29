@@ -6,3 +6,6 @@ url: https://gasflux.github.io
 
 #aux_links:
 #  Template Repository: https://github.com/gasflux/gasflux.github.io
+
+logo: "/assets/images/logo.png"
+favicon_ico: "/assets/images/favicon.ico"
