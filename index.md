@@ -5,22 +5,22 @@ layout: home
 
 # GasFlux: a Python package for mitigating climate change
 
+GasFlux is a forthcoming python package that will help measurement scientists to quantify greenhouse gas emissions and provide data to those who can mitigate them.
+
 | ![Alt text](image.png) |
 |:--:| 
 | *[source](https://www.epa.gov/climate-indicators/climate-change-indicators-atmospheric-concentrations-greenhouse-gases#)* |
 
     "If you can't measure it, you can't manage it.”
 
-GasFlux is a forthcoming python package that will help measurement scientists to quantify greenhouse gas emissions and provide data to those who can mitigate them.
-
 ## Purpose
 The project has two aims:
-1. Provide software to produce emissions fluxes from input data in a way that is accessible, reproducible, transparent and allows for quantification of uncertainty
-2. Provide a clearinghouse website for best practice in the main techniques for measuring gas fluxes
+1. Provide software to produce emissions fluxes from input data in a way that is accessible, reproducible, transparent and allows for quantification of uncertainty, 
+2. Provide a clearinghouse website for best practice in the main techniques for measuring gas fluxes in the open atmosphere
 
-The primary focus is on site-level quantification of greenhouse gas emissions (especially methane) from concentrated industry such as oil and gas, landfills and intensive agriculture.
+The primary focus is on site-level quantification of greenhouse gas emissions (especially methane) from concentrated industry such as oil and gas, landfills and intensive agriculture, taken from mobile concentration measurements.
 
-The basic methodologies will be applicable to many diverse situations where gas emissions are being quantified in the open atmosphere, such as volcanic emissions. Methods for more diffuse emissions such as those from ecosystems and extensive agriculture will be developed as the project matures.
+The basic methodologies will be applicable to many diverse situations where gas emissions are being quantified in the open atmosphere, such as volcanic emissions, or non-greenhouse emissions from industry. Methods for more diffuse emissions such as those from ecosystems and extensive agriculture will be developed as the project matures.
 
 ## Background
 
