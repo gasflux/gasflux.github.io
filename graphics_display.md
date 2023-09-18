@@ -1,3 +1,8 @@
+---
+title: Analysis Dashboard
+layout: default
+---
+
 # Analysis Dashboard
 
 The analysis dashboard of GasFlux is in development. Here is an example screenshot:
