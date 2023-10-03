@@ -1,6 +1,7 @@
 ---
 title: GasFlux
 layout: home
+nav_order: 1
 ---
 
 # GasFlux: a Python package for mitigating climate change

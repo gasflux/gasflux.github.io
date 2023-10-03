@@ -1,6 +1,7 @@
 ---
 title: Analysis Dashboard
 layout: default
+nav_order: 2
 ---
 
 # Analysis Dashboard
