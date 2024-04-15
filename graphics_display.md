@@ -4,9 +4,6 @@ layout: default
 nav_order: 2
 ---
 
-# Analysis Dashboard
+# Analysis Report
 
-The analysis dashboard of GasFlux is in development. Here is an example screenshot:
-
-
-![Display of analysis dashboard](<Screenshot from 2023-07-28 16-55-53-1.png>)
+The interactive analysis report of GasFlux is in development. An example can be found [here](docs/testdata_ch4_report.html).
